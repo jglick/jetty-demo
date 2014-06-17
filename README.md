@@ -11,3 +11,7 @@ Then to hot-deploy web apps:
     cp something.war $WEBAPPS
 
 and browse: http://localhost/something/
+
+(Or http://localhost/ lists currently running applications.)
+
+Logs are sent to standard output so you can easily follow status.
