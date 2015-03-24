@@ -1,4 +1,4 @@
-FROM dockerfile/java
+FROM java:7
 MAINTAINER jglick@cloudbees.com
 # cribbed from cjlyth/jetty
 WORKDIR /opt
